@@ -29,5 +29,3 @@ thing = XOR(pt1, hexDigest)
 print(thing)
 
 opt1 = cipher.encrypt(thing)
-
-print(opt1.decode('hex'))
